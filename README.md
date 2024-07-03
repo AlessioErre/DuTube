@@ -24,3 +24,14 @@ Qualora dovesse tornarti utile il mio programma, sappi che ho passato ore davant
 
 
 
+SCREENSHOT
+
+![Foto-1](https://github.com/AlessioErre/DuTube/assets/125505541/c6fbf6e3-6272-4811-9141-cfa8c88857e5)
+![Foto-2](https://github.com/AlessioErre/DuTube/assets/125505541/d2137211-789d-46f6-b8a9-adb237a0ba46)
+![Foto-3](https://github.com/AlessioErre/DuTube/assets/125505541/4a7debd0-7308-4af1-bb02-83aef2f995b6)
+![Foto-4](https://github.com/AlessioErre/DuTube/assets/125505541/1db910c2-794c-48e2-a7c6-e3e12238f0ad)
+![Foto-5](https://github.com/AlessioErre/DuTube/assets/125505541/27985ff9-a196-40af-b66d-9b22bea45855)
+![Foto-6](https://github.com/AlessioErre/DuTube/assets/125505541/9cca641f-f0c5-41e3-86bb-581dec90eb96)
+
+
+
