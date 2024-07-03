@@ -1,4 +1,4 @@
-![Foto-1](https://github.com/AlessioErre/DuTube/assets/125505541/069a74d2-1596-403a-9162-14f580f0b59f)
+
 # Dutube
 # il seguente programma ha licenza MIT.
 
