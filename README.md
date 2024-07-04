@@ -19,9 +19,11 @@ una volta fatto questo, possiamo finalmente usare il programma tramite la sua in
 Buon divertimento!
 Qualora dovesse tornarti utile il mio programma, sappi che ho passato ore davanti al computer per svilupparlo, ci ho impiegato tempo e adesso puoi usarlo anche tu, libero di non prendere un virus. Se ti fa piacere, lasciami un' offerta per questo tempo che ho speso, sarà un po come avermi offerto un caffe'. :))))
 
+
+
+   Official Website : https://alessioerre.altervista.org/
    paypal : alessioerre5@gmail.com
-
-
+   
 
 
 SCREENSHOT
