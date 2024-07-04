@@ -2,7 +2,7 @@
 # Dutube
 # il seguente programma ha licenza MIT.
 
-e' stato progettato con lo scopo di dare opportunita' di scaricare musica a tutti, ai soli fini personali e non quelli di vendita o lucro, potendolo fare in maniera sicura, senza prendere virus su siti incerti e sopratutto e' stato creato a scopo didattico, illustrativo e curriculare. non si ha nessunissima intenzione di ricorrere alla pirateria informatica online. Qui sotto, la guida all' installazione e all' uso del programma (sperando che non ci siano bug o errori), qualora ci fossero bug o errori, potete segnalarmeli alla seguente email : alessioerre@protonmail.com
+E' stato progettato con lo scopo di dare opportunita' di scaricare musica a tutti, ai soli fini personali e non quelli di vendita o lucro, potendolo fare in maniera sicura, senza prendere virus su siti incerti e sopratutto e' stato creato a scopo didattico, illustrativo e curriculare. non si ha nessunissima intenzione di ricorrere alla pirateria informatica online. Qui sotto, la guida all' installazione e all' uso del programma (sperando che non ci siano bug o errori), qualora ci fossero bug o errori, potete segnalarmeli alla seguente email : alessioerre@protonmail.com
 
 [GUIDA - TESTATO IN LINUX CENTOS]
 
