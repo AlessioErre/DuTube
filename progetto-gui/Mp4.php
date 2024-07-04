@@ -2,7 +2,8 @@
 <?php
 class Mp4{
   // Proprietà private
-  private $mp4 = "22";
+  //private $mp4 = "22";
+  private $mp4 = "mp4";
   private $link;
 
   // Costruttore
@@ -23,7 +24,9 @@ class Mp4{
 
 
    public function Mp4Audio(){
-      system("python3 /home/black-jack/05-Script/03-Altrui/yt-dlp/yt_dlp/__main__.py -f " . $this->mp4 . " -P /home/black-jack/05-Script/DuTube/Downloads " . $this->link);
+      #system("python3 /home/black-jack/05-Script/03-Altrui/yt-dlp/yt_dlp/__main__.py -f " . $this->mp4 . " -P /home/black-jack/05-Script/DuTube/Downloads " . $this->link);
+      
+     system("python3 /home/black-jack/05-Script/03-Altrui/yt-dlp/yt_dlp/__main__.py -S ext " . "-P /home/black-jack/05-Script/DuTube/Downloads " . $this->link);
    }}
 
 $mp4 = "22";
