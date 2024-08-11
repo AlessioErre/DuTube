@@ -25,7 +25,7 @@ Se ti fa piacere, lasciami un' offerta per questo tempo che ho speso, sarà un p
    Official Website : https://alessioerre.altervista.org/
    
 
-SCREENSHOT
+SCREENSHOT :
 
 ![Foto-1](https://github.com/AlessioErre/DuTube/assets/125505541/c6fbf6e3-6272-4811-9141-cfa8c88857e5)
 ![Foto-2](https://github.com/AlessioErre/DuTube/assets/125505541/d2137211-789d-46f6-b8a9-adb237a0ba46)
