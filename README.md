@@ -17,15 +17,12 @@ una volta fatto questo, possiamo finalmente usare il programma tramite la sua in
  dove "/home/username" è il percorso col nome utente della macchina in uso.
    
 Buon divertimento!
-Qualora dovesse tornarti utile il mio programma, sappi che ho passato ore davanti al computer per svilupparlo, ci ho impiegato tempo e adesso puoi usarlo anche tu, libero di non prendere un virus. Se ti fa piacere, lasciami un' offerta per questo tempo che ho speso, sarà un po come avermi offerto un caffe'. :))))
+Qualora dovesse tornarti utile il mio programma, sappi che ho passato ore davanti al computer per svilupparlo, ci ho impiegato tempo e adesso puoi usarlo anche tu, libero di non prendere un virus. Sviluppare questo progetto ha richiesto risorse e tempo. 
+Se ti fa piacere, lasciami un' offerta per questo tempo che ho speso, sarà un po come avermi offerto un caffe'. :))))
 
-
-
+   paypal           : https://www.paypal.com/donate/?hosted_button_id=S5VWL5F7DJ4QY
    Official Website : https://alessioerre.altervista.org/
    
-   paypal : alessioerre5@gmail.com
-   
-
 
 SCREENSHOT
 
