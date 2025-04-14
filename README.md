@@ -34,5 +34,3 @@ SCREENSHOT :
 ![Foto-5](https://github.com/AlessioErre/DuTube/assets/125505541/27985ff9-a196-40af-b66d-9b22bea45855)
 ![Foto-6](https://github.com/AlessioErre/DuTube/assets/125505541/9cca641f-f0c5-41e3-86bb-581dec90eb96)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioErre&layout=compact&theme=default)
-
